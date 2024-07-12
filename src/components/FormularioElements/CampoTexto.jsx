@@ -30,7 +30,7 @@ CustomTextInput.propTypes = {
 export default CustomTextInput;
 
 const Input = styled.input`
-  width: 100%;
+  width: 95%;
   height: 50px;
   flex-shrink: 0;
   background-color: ${colorGrayLight};
@@ -42,6 +42,7 @@ const Input = styled.input`
   flex-shrink: 0;
   border: none;
   outline-style: none;
+  margin: 0.5rem 0;
   color: ${colorGrayLigther};
   font-weight: 600;
 `;

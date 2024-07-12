@@ -1,4 +1,4 @@
-import gif from "./../public/img/sofidev_laptop.gif";
+import gif from "./../public/img/loading.gif";
 import styled from "styled-components";
 import { Btn } from "./components/UI";
 import { useNavigate } from "react-router-dom";

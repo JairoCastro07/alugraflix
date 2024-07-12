@@ -11,8 +11,8 @@ export const Btn = styled.button`
   flex-shrink: 0;
   text-align: center;
   font-family: "Roboto";
-  font-size: 2.1rem;
-  font-weight: 600;
+  font-size: 1.8rem;
+  font-weight: 500;
   border: none;
   border-radius: 0.5rem;
   background-color: ${(props) => (props.variant === "blue" ? colorPrimario : "#dedede")};
@@ -71,9 +71,10 @@ export const TextoLabel = styled.label`
   align-items: center;
   width: 100%;
   font-family: Roboto;
-  font-size: 1rem;
+  font-size: 1.8rem;
   font-weight: 300;
   padding: 1rem 2rem;
+  margin-bottom: 3px;
 `;
 
 export const Form = styled.form`
@@ -88,6 +89,7 @@ export const CajaInputs = styled.div`
   display: flex;
   flex-direction: column;
   width: 80%;
+  margin: 0.5rem 0;
 `;
 
 export const ContainerInput = styled.div`
@@ -200,10 +202,11 @@ export const InputSubmit = styled.input`
   flex-shrink: 0;
   text-align: center;
   font-family: "Roboto";
-  font-size: 2.1rem;
-  font-weight: 600;
+  font-size: 1.8rem;
+  font-weight: 500;
   border: none;
   border-radius: 0.5rem;
+  margin: 0.5rem 0;
   background-color: ${colorPrimario};
 
   @media screen and (max-width: 768px) {

@@ -94,7 +94,7 @@ export default function AddVideo() {
             <ContainerInput>
               <CustomTextInput
                 type="text"
-                label="Embed ID del video"
+                label="Id del video"
                 name="embedId"
                 placeholder="el id del url de youtube: FyKPsua6Br8"
                 register={register}
@@ -111,7 +111,7 @@ export default function AddVideo() {
             <ContainerInput>
               <CustomTextInput
                 type="text"
-                label="Embed ID para imagen"
+                label="Id para imagen"
                 name="img"
                 placeholder="el mismo id: FyKPsua6Br8"
                 register={register}
