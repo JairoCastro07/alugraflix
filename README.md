@@ -1,3 +1,6 @@
+# alugraflix
+Challenge
+
 # Oracle One and Alura LATAM Program Final Project
 
 This project is fetching data from a fake api deployed in vercel:[
