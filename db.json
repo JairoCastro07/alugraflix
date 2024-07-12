@@ -1,0 +1,328 @@
+{
+  "categoria": [
+    {
+      "descripcion": "Videos de la categoría frontend",
+      "nombre": "frontend",
+      "color": "#6BD1FF",
+      "id": "25"
+    },
+    {
+      "descripcion": "Esta es la categoría de WordPress",
+      "nombre": "wordpress",
+      "color": "#FFBA05",
+      "id": "26"
+    },
+    {
+      "id": "3256",
+      "nombre": "wsl",
+      "color": "#00C86F",
+      "descripcion": "Esta es una descripcion de la categoria"
+    },
+    {
+      "id": "256565",
+      "nombre": "alura",
+      "color": "#7b00e0",
+      "descripcion": "Esta es una descripcion de la categoria"
+    },
+    {
+      "descripcion": "Videos de React",
+      "nombre": "React",
+      "color": "#00ffd5",
+      "id": "59804be1-bb35-426b-8db8-42fe3a2b52dc"
+    },
+    {
+      "descripcion": "Categoria para videos de CSS",
+      "nombre": "CSS",
+      "color": "#ff0000",
+      "id": "be3535fe-da7a-4f44-ba25-1bdacf2bb0d9"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "Tutorial Modo oscuro",
+      "metadescription": "¿Sabes qué es el 'prefers-color-scheme'? Aprende cómo implementar el Modo oscuro en tus sitios web con JavaScript. Este es un curso de nivel medio.",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "tSVyfcpJ1yc",
+      "embedId": "tSVyfcpJ1yc"
+    },
+    {
+      "id": "2",
+      "title": "Taller de Diseño con FIGMA para DEVELOPERS | HackerLIVE#40",
+      "metadescription": "¿Cómo aprender diseño como programadores? \n\nCarmen Ansio, como experta, nos ayuda a conseguirlo con este taller desde cero para aprender Figma, una de las herramientas más utilizadas en el sector.",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "jy0IgvV42es",
+      "embedId": "jy0IgvV42es"
+    },
+    {
+      "id": "3",
+      "title": "PHP está muerto en 2023? | #laFunción 9x2",
+      "metadescription": "Parece que cada año se intenta matar a PHP \n\n ¿pero es eso cierto? En el directo de hoy exploramos a ver si tiene sentido o no aprender php como lenguaje de programación y veremos sus principales frameworks como Laravel y Symfony.",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "f8W220hkmgA",
+      "embedId": "f8W220hkmgA"
+    },
+    {
+      "id": "4",
+      "title": "Fake API con json-server",
+      "metadescription": "Aprende a desplegar tu propia fake api con vercel y json server para tus proyectos de frontend. \n\nAdemás, te dejo el repositorio para que lo puedas clonar",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "bZ6oqJEA5K0",
+      "embedId": "bZ6oqJEA5K0"
+    },
+    {
+      "id": "5",
+      "title": "¿Cómo hacer deploy de Github a Hostinger?",
+      "metadescription": "Aprende a desplegar tu repositorio privado desde Github a Hostinger. \n\n Podrás hacer cambios y actualizarlos en tiempo real con tan solo un PUSH",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "RwBcNPybF4Q",
+      "embedId": "RwBcNPybF4Q"
+    },
+    {
+      "id": "6",
+      "title": "Curso de wordpress 1",
+      "metadescription": "primeros pasos con Local Wordpress.\n\n Aprenderás a instalar Wordpress de forma local y hacer tus primeras configuraciones.",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "XqL6bDsQxbM",
+      "embedId": "XqL6bDsQxbM"
+    },
+    {
+      "id": "7",
+      "title": "Curso de wordpress 2",
+      "metadescription": "Haremos las primeras configuraciones a nuestro wordpress para que pueda indexarse y posicionarse de manera optimizada. \n\nEstructuraremos el menú y las las permalinks",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "9YbBVmiBPbs",
+      "embedId": "1gUCu2e_JiM"
+    },
+    {
+      "id": "8",
+      "title": "Curso de wordpress 3",
+      "metadescription": "Editor de texto Gutenberg",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "oqqTEeD8F0c",
+      "embedId": "oqqTEeD8F0c"
+    },
+    {
+      "id": "9",
+      "title": "Curso de wordpress 4",
+      "metadescription": "Bienvenidos al curso de Wordpress con ELEMNTOR. En este curso aprenderás a crear páginas web, totalmente atractivas y responsivas.\n\nLo mejor de todo es que  es totalmente gratis, ya que trabajaremos ofline usando el software de LOCAL. Así que lo único que necesitas es una PC y conexión a internet (Para ver estos videos)",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "eeoa0f4IVhs",
+      "embedId": "eeoa0f4IVhs"
+    },
+    {
+      "id": "10",
+      "title": "Curso de wordpress 5",
+      "metadescription": "Theme Builder de Elementor\n \n En esta clase vamos a crear nuestra primera página con Elementor. \n \n Aprenderás como maquetar y obtener un diseño responsive con los Bloques de elementor",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "BxKuJ4pLRSI",
+      "embedId": "BxKuJ4pLRSI"
+    },
+    {
+      "id": "11",
+      "title": "Curso de WSL 01",
+      "metadescription": "Con este curso aprenderás a preparar tu equipo con las herramientas necesarias para empezar a programar o comenzar a aprender.\n \n  Vamos a hacer las configuraciones necesarias para que puedas crear un proyecto sin mayores obstáculos. \n \nTambién aprenderás a moverte en la terminal. este es un curso para principiantes",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "JKThdA1UbTw",
+      "embedId": "JKThdA1UbTw"
+    },
+    {
+      "id": "12",
+      "title": "Curso de WSL 02",
+      "metadescription": "Ya que instalamos la terminal, vamos a sumergirnos de lleno en la Command Line o  Línea de comandos. \n\nAprenderemos como mover archivos, crearlos y editarlos",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "aFvk5UepU0o",
+      "embedId": "aFvk5UepU0o"
+    },
+    {
+      "id": "13",
+      "title": "Curso de WSL 03",
+      "metadescription": "En esta clase vamos a aprender a instalar Plugins y Temas para nuestra terminal.\n\n Así que la dejaremos super bonita pero también aumentaremos nuestra productividad.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "jA2PIgWX3BI",
+      "embedId": "jA2PIgWX3BI"
+    },
+    {
+      "id": "14",
+      "title": "Instalar Ubuntu en Windows 10 con WSL",
+      "metadescription": "Nuestro curso de WSL.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "bmtA9PKkFlg",
+      "embedId": "bmtA9PKkFlg"
+    },
+    {
+      "id": "15",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "16",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "17",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "18",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "19",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "20",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "21",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "22",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "23",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "24",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "25",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    },
+    {
+      "id": "26",
+      "title": "O que é cloud na prática?",
+      "metadescription": "Quando o assunto é nuvem, muitos acreditam que basta subir uma aplicação e ser feliz.\n\n \nA realidade é que você precisa ter o conhecimento necessário para entender e usar a nuvem a seu favor.\n\n \nTudo pode ir por água abaixo se não tivermos o conhecimento necessário.",
+      "categoria": {
+        "nombre": "wsl",
+        "color": "#00C86F"
+      },
+      "img": "Q7u61FhfVY4",
+      "embedId": "Q7u61FhfVY4"
+    }
+  ]
+}
