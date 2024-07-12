@@ -6,10 +6,10 @@ Challenge
 This project is fetching data from a fake api deployed in vercel:[
 https://fake-api-aluraflix-two.vercel.app/](
 https://fake-api-aluraflix-two.vercel.app/)
-![Alt text](image-1.png)
+
 This project represents the React challenge, which involves creating a web application similar to Netflix. The project's design is based on the [Figma design](https://www.figma.com/file/jWsqqszcgLAecpsJArCVgI/AluraFlix-ESP-(Copy)?type=design&mode=design&t=SeuJUCGHT8jWQiZf-1) provided by Alura, but you have the flexibility to customize the design to your preferences.
 
-![Alt text](image.png)
+
 ## Project Overview
 ```javascript
 // Crea una instancia de axios con la base de la API
